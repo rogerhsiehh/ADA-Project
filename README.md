@@ -8,7 +8,7 @@
    After downloading, place the dataset at the same directory level as the `data_prep.ipynb` file.
    ![](https://github.com/rogerhsiehh/ADA-Project/blob/6232998f1e5cb24e30bda3853722220ab8200879/info/Screenshot%202024-12-23%20at%2011.20.51.png)
 
-4. **Run the Code**  
+3. **Run the Code**  
    Open and execute the `data_prep.ipynb` notebook. Once completed, you will receive the processed data label vectors for all train, test, and validation files.
 
 ---
@@ -16,7 +16,10 @@
 
 1. **Download the Dataset Car Damage Severity**  
    Download the dataset from the following link:  
-   [Dataset Link]([https://drive.google.com/file/d/1bbyqVCKZX5Ur5Zg-uKj0jD0maWAVeOLx/view](https://www.kaggle.com/datasets/prajwalbhamere/car-damage-severity-dataset/data))
+   [Dataset Link](https://drive.google.com/file/d/1bbyqVCKZX5Ur5Zg-uKj0jD0maWAVeOLx/view](https://www.kaggle.com/datasets/prajwalbhamere/car-damage-severity-dataset/data))
+
+2. **Run the Code**  
+   Data Pre-processing and Models are in the same files.
 
 # Pre-trained Models Available on Hugging Face
 
