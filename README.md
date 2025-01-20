@@ -12,7 +12,11 @@
    Open and execute the `data_prep.ipynb` notebook. Once completed, you will receive the processed data label vectors for all train, test, and validation files.
 
 ---
+# Dataset Preparation
 
+1. **Download the Dataset Car Damage Severity**  
+   Download the dataset from the following link:  
+   [Dataset Link]([https://drive.google.com/file/d/1bbyqVCKZX5Ur5Zg-uKj0jD0maWAVeOLx/view](https://www.kaggle.com/datasets/prajwalbhamere/car-damage-severity-dataset/data))
 
 # Pre-trained Models Available on Hugging Face
 
