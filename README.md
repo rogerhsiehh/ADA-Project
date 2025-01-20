@@ -16,7 +16,7 @@
 
 1. **Download the Dataset Car Damage Severity**  
    Download the dataset from the following link:  
-   [Dataset Link](https://drive.google.com/file/d/1bbyqVCKZX5Ur5Zg-uKj0jD0maWAVeOLx/view](https://www.kaggle.com/datasets/prajwalbhamere/car-damage-severity-dataset/data))
+   [Dataset Link](https://www.kaggle.com/datasets/prajwalbhamere/car-damage-severity-dataset/data)
 
 2. **Run the Code**  
    Data Pre-processing and Models are in the same files.
