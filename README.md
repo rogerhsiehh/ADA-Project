@@ -28,7 +28,7 @@
 - **Availabe Pre-trained Detection Models**:
    - ([https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)). 
 
-3. **ViT**
+2. **ViT**
 
 - Vision Transformers (ViT) are state-of-the-art models for image classification, utilizing transformer architecture to capture global context.
 
