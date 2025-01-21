@@ -21,38 +21,16 @@
 2. **Run the Code**  
    Data Pre-processing and Models are in the same files.
 
-# Pre-trained Models Available on Hugging Face
+# Models
 
-This project leverages pre-trained models from Hugging Face for efficient transfer learning. Below is a list of recommended pre-trained models that you can use, along with their descriptions and links.
+1. **YOLO**
 
----
+- **Availabe Pre-trained Detection Models**:
+   - ([https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)). 
 
-## **1. VGG Models**
-VGG models are popular for image classification tasks due to their simple architecture and strong performance on ImageNet.
+3. **ViT**
 
-- **Available Pre-trained Models**:
-  - [VGG11 on ImageNet](https://huggingface.co/timm/vgg11.tv_in1k)  
-    A lightweight VGG model with 11 layers.
-  - [VGG19 on ImageNet](https://huggingface.co/keras/vgg_19_imagenet)  
-    A deeper variant of VGG with 19 layers, pre-trained on ImageNet.
-
----
-
-## **2. ResNet Models**
-ResNet models are known for their residual connections, which allow for deeper architectures and high accuracy.
-
-- **Available Pre-trained Models**:
-  - [ResNet50 on ImageNet](https://huggingface.co/timm/resnet50.tv_in1k)  
-    A 50-layer ResNet, widely used for classification tasks.
-  - [ResNet101 on ImageNet](https://huggingface.co/timm/resnet101.tv_in1k)  
-    A deeper ResNet model with 101 layers.
-  - [ResNet152 on ImageNet](https://huggingface.co/timm/resnet152.tv_in1k)  
-    A high-capacity ResNet model for complex tasks.
-
----
-
-## **3. Vision Transformer (ViT) Models**
-Vision Transformers (ViT) are state-of-the-art models for image classification, utilizing transformer architecture to capture global context.
+- Vision Transformers (ViT) are state-of-the-art models for image classification, utilizing transformer architecture to capture global context.
 
 - **Available Pre-trained Models**:
   - [ViT-Base (Patch 16, 224px)](https://huggingface.co/google/vit-base-patch16-224-in21k)  
